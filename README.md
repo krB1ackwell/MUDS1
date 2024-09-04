@@ -1,2 +1,2 @@
-#MUDS1
+# MUDS1
 Digital signage for midland university
